@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/184.df9afb2c.chunk.js","mappings":"gJAEA,MAIA,EAJiBA,KACRC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,iB","sources":["components/Register.js"],"sourcesContent":["import React from 'react';\n\nconst Register = () => {\n  return <h1>Register Page</h1>;\n};\n\nexport default Register;\n"],"names":["Register","_jsx","children"],"sourceRoot":""}
